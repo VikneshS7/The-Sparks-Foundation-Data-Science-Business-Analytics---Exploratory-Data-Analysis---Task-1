@@ -24,3 +24,5 @@ This is the first task expected to be completed as a Data Science and Business A
 where the store can make profit and also what all business problem can be derived from the dataset.
 
 For Data Analysis, the dataset is subjected to various cleaning and exploration processes, later it is broken down and key metrics and key performance indicator (KPI). For a retail store the possible key performance indicators are Profit, Sales and quantities sold. 
+
+Link to Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiZjZhMTJiZWMtMDEyOS00MjUyLTg0MTUtMTllMTNkNzg2NjI3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
